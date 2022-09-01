@@ -1,2 +1,2 @@
 #!/bin/bash
-telnet towel.StarWarsepisodeIV .nl
+telnet towel.blinkenlights .nl
